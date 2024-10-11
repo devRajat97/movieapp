@@ -142,7 +142,7 @@ const Login = () => {
             {" "}
             New to Netflix?{" "}
             <span className="font-bold cursor-pointer" onClick={() => Test()}>
-              Sign up now.
+              Sign up now
             </span>{" "}
           </p>
         )}
